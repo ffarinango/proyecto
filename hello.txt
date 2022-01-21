@@ -1,1 +1,4 @@
-macatnejo de vercionamiento
+manejo de vercionamiento
+Nombre:wilson farinango
+materia:calidad de software
+edad: 24
